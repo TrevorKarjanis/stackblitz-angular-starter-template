@@ -8,7 +8,7 @@ This is an Angular project to fork from when starting new projects on StackBlitz
 2. Name the project "Angular Starter" to be able to search for it.
 2. Click "Connect repository".
 3. Click "import an existing repository".
-4. Choose the forked repository.
+4. Provide "https://github.com/TrevorKarjanis/stackblitz-angular-starter-template" and click "Import".
 5. Freeze the project.
 6. Fork the project when creating a new Angular project on StackBlitz.
 
