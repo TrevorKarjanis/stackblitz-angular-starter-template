@@ -101,5 +101,7 @@
       }
     }
   },
-  "defaultProject": "stackblitz-angular-starter-template"
+  "cli": {
+    "analytics": "67ff50e8-eb75-43d5-813c-8551462c1a33"
+  }
 }
